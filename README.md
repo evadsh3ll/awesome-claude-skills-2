@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Turn a trading idea, post or video into fixed rules, backtest and paper-trade them free, and request a live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs that you approve and sign.
 
 
 ## 🔬 Scientific & Research Tools
